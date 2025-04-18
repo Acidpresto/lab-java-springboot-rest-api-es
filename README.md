@@ -23,9 +23,9 @@ Crea una aplicación **Spring Boot** utilizando **Spring Initializr** con las si
 - **Spring Boot DevTools**
 - **Spring Boot Starter Validation**
 
-### 2. Clase `Product`
+### 2. Clase `model`
 
-Crea una clase `Product` que represente un producto con diversas propiedades.  
+Crea una clase `model` que represente un producto con diversas propiedades.  
 Asegúrate de aplicar **validaciones adecuadas** en los atributos, como:
 - Validar que el **nombre** no esté vacío y tenga una longitud mínima.
 - Asegurar que el **precio** sea un número positivo.
